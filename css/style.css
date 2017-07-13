@@ -1,0 +1,76 @@
+/*[class*=col-""] {
+	float: left;
+}*/
+
+.col-dk-1 {
+width: 8.33%;
+height: 400px;
+float: left;
+margin: 0 auto;
+padding: 0;
+}
+
+.clearfix {
+clear: both;
+display: block;
+}
+
+.col-md-12, .col-md-8, .col-md-4, .col-md-3, .col-md-6 {
+margin: 0 auto;
+padding: 0;
+float: left;
+}
+
+.clearfix {
+clear: both;
+display: block;
+}
+
+.black {
+	background-color: black;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.lightblue {
+	background-color: lightblue;
+}
+
+.lightpink {
+	background-color: lightpink;
+}
+
+.darkpink {
+	background-color: #db6a6a;
+}
+
+.green {
+	background-color: green;
+}
+
+.orange {
+	background-color: orange;
+}
+
+.yellow {
+	background-color: yellow;
+}
+
+.brown {
+	background-color: brown;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.lightgrey {
+	background-color: lightgrey;
+}
+
+.black2 {
+	background-color: black;
+}
+
