@@ -1,4 +1,4 @@
-@media screen and (min-width: 1022px) and (max-width: 1366px) {
+@media screen and (min-width: 1024px) and (max-width: 1366px) {
 
 }
 
@@ -6,6 +6,7 @@
 
 	.col-md-12 {
 	width: 100%;
+	float: left;
 	height: 70px;
 	}
 
@@ -35,12 +36,15 @@
 	}
 }
 
-@media screen and (min-width: 360px) and (max-width: 639px) {
+@media screen and (min-width: 0px) and (max-width: 639px) {
 	.col-sm-12 {
 	width: 100%;
 	}
 	.black, .black2 {
 		height: 70px;
+	}
+	.hidden-sm {
+		display: none;
 	}
 }
 
